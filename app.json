@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ProjetoControleCaixa",
+    "slug": "ProjetoControleCaixa",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
